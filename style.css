@@ -3,11 +3,11 @@
  color: #fff;
 }
 
-p {
+a {
  text-decoration: none;
+ color:  #FF5733 ;
 }
 
-p:hover {
+a:hover {
  text-decoration: underline;
- color:  #FF5733 ;
 }
