@@ -1,6 +1,7 @@
 @font-face { font-family: Quicksand; font-weight: light; src: url('fonts/quicksand/Quicksand_Light.otf'); } 
 @font-face { font-family: Quicksand; font-weight: bold; src: url('fonts/quicksand/Quicksand_Bold.otf'); }
 @font-face { font-family: Quicksand; src: url('fonts/quicksand/Quicksand_Book.otf'); } 
+@font-face { font-family: Archer; src: url('fonts/archer/ARCHER.TTF'); }
 
 * {
  font-family: Quicksand;
