@@ -2,3 +2,12 @@
  background-color : #534b61;
  color: #fff;
 }
+
+p {
+ text-decoration: none;
+}
+
+p:hover {
+ text-decoration: underline;
+ color:  #FF5733 ;
+}
