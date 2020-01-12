@@ -1,13 +1,16 @@
 @font-face { font-family: Quicksand; font-weight: light; src: url('fonts/Quicksand_Light.otf'); } 
+@font-face { font-family: Quicksand; font-weight: bold; src: url('fonts/Quicksand_Bold.otf'); }
 @font-face { font-family: Quicksand; src: url('fonts/Quicksand_Book.otf'); } 
-
-
-
 
 * {
  font-family: Quicksand;
  background-color : #534b61;
  color: #fff;
+}
+
+h1 {
+font-family: Quicksand;
+font-weight: bold;
 }
 
 a {
