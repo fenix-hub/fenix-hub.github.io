@@ -1,3 +1,5 @@
+@font-face { font-family: Quicksand; src: url('fonts/Quicksand_Light.otf'); } 
+
 * {
  background-color : #534b61;
  color: #fff;
