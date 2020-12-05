@@ -1,4 +1,4 @@
-var url = "localhost:8000/something?name=ABC"
+var url = window.location.href;
 var name = url.substring(url.indexOf("=") + 1);  
 
 var parent = document.getElementById("myDiv");
