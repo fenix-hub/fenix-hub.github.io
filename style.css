@@ -28,9 +28,12 @@ h3 {
 }
 
 .socials {
-  text-align: center;
-  font-size: 80%;
+  text-align: center;  
+}
+
+.socials ul {
   padding: 0;
+  font-size: 80%;
 }
 
 .socials li {
