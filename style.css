@@ -26,3 +26,16 @@ h3 {
     color: #ccf;
   }
 }
+
+.socials {
+  text-align: center;
+  font-size: 80%;
+}
+
+.socials li {
+  padding: 10px;
+  display: inline-block;
+}
+
+
+
