@@ -2,7 +2,7 @@
 title: Nicolo Santilio
 ---
 
-👋 Hi, my name is{:.h2}  
+👋 Hi, my name is{: #h2}  
 Nicolo Santilio{:.h1}  
 and I do stuff related to *robotics* and *computer science*{:.h3} 
 
