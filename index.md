@@ -2,9 +2,9 @@
 title: Nicolo Santilio
 ---
 
-👋 Hi, my name is {:.h2}  
-Nicolo Santilio {:.h1}  
-and I do stuff related to *robotics* and *computer science* {:.h3} 
+👋 Hi, my name is {:#h2}  
+Nicolo Santilio {:#h1}  
+and I do stuff related to *robotics* and *computer science* {:#h3} 
 
 *Socials*  
 [blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
@@ -35,5 +35,6 @@ While you can both *read* and *use* what I'm publishing online, you can also fin
 ---
 
 This website is based on [perfectmotherfockingwebsite.com](https://perfectmotherfuckingwebsite.com/)
-[👁️](https://github.com/fenix-hub/fenix-hub.github.io) — Made with ❤️ — [📜](https://github.com/fenix-hub/fenix-hub.github.io/blob/master/LICENSE) {:.footer}
+[👁️](https://github.com/fenix-hub/fenix-hub.github.io) — Made with ❤️ — [📜](https://github.com/fenix-hub/fenix-hub.github.io/blob/master/LICENSE) 
+{:.footer}
 
