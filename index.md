@@ -8,6 +8,7 @@ title: Nicolo Santilio
 
 *Socials*  
 [blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
+{:.socials}
     
 ## 📖 About Me
 1997, Automation Engineer.  
