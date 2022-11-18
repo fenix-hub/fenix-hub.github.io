@@ -1,6 +1,5 @@
 ---
 title: Nicolo Santilio
-layout: 
 ---
 
 👋 Hi, my name is{:.h2}  
