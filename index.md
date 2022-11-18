@@ -34,7 +34,7 @@ While you can both *read* and *use* what I'm publishing online, you can also fin
 
 ---
 
-This website is based on [perfectmotherfockingwebsite.com](https://perfectmotherfuckingwebsite.com/)
+This website is based on [perfectmotherfockingwebsite.com](https://perfectmotherfuckingwebsite.com/)  
 [👁️](https://github.com/fenix-hub/fenix-hub.github.io) — Made with ❤️ — [📜](https://github.com/fenix-hub/fenix-hub.github.io/blob/master/LICENSE) 
 {:.footer}
 
