@@ -2,9 +2,9 @@
 title: Nicolo Santilio
 ---
 
-👋 Hi, my name is {:#h2}  
-Nicolo Santilio {:#h1}  
-and I do stuff related to *robotics* and *computer science* {:#h3} 
+👋 Hi, my name is{:#h2}  
+Nicolo Santilio{:#h1}  
+and I do stuff related to *robotics* and *computer science*{:#h3} 
 
 *Socials*  
 [blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
