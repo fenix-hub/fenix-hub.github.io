@@ -30,7 +30,7 @@ You can also *read* about my projects and studies on [my blog](https://blog.nico
 
 While you can both *read* and *use* what I'm publishing online, you can also find a complete list of all my projects with some details on this page 👇
 
-[➡️ /portfolio](/portfolio)
+[➡️ /portfolio](/portfolio){: style="font-size: 80%; text-align: center;"}
 
 ---
 
