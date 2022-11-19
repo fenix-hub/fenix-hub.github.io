@@ -8,7 +8,7 @@ title: Nicolo Santilio
 Here's the list of projects and tools I've worked on.  
 
 ## 📚  Projects
-[Open Authenticator](/open-authenticator)
+[Open Authenticator](/open-authenticator) (<i class='fab fa-java'></i>)
 : Open source, offline, multiplatform 2fa software. Alternative to Google and Microsoft authenticator made with Godot Engine 4
 
 [RadioNet](/RadioNet)
