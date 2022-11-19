@@ -32,8 +32,11 @@ Here's the list of projects and tools I've worked on.
  [SociaDot](https://github.com/GodotNuts/FirebaseDemo-SociaDot) (GDScript, Firebase)
  : Experimental social network multi-platform app build with Godot Engine and Firebase
  
- [GDApplib](https://github.com/gdshell/gdapplib-server) (Quarkus Java, Docker, PostgreSQL)
+ [GDApplib](https://github.com/gdshell/gdapplib-server) (Quarkus Java, Docker, PostgreSQL, Docker)
  : Microservice as game library backend for Godot Engine games, supporting chunked upload/download
+ 
+ [GibsonCLI](https://gibsongd.github.io/gibson-cli) (Go)
+ : Golang CLI tool for Gibson framework: package manager, project manager, godot cli parser, class resolver
    
 ## 🎮 Games
 [Demon Reaper](/demon-reaper)
