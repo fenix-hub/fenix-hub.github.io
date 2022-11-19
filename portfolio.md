@@ -8,29 +8,32 @@ title: Nicolo Santilio
 Here's the list of projects and tools I've worked on.  
 
 ## 📚  Projects
-[Open Authenticator](/open-authenticator) <i class="fa-brands fa-java"></i>
+[Open Authenticator](/open-authenticator) (GDScript, C++)
 : Open source, offline, multiplatform 2fa software. Alternative to Google and Microsoft authenticator made with Godot Engine 4
 
-[RadioNet](/RadioNet)
+[RadioNet](/RadioNet) (GDScript, C#)
 : A simple Internet Radio Player made with Godot Engine and C# for a working project
   
-[My Booking Restaurant](/my-br-app)
+[My Booking Restaurant](/my-br-app) (GDscript)
 : Open Source booking restaurant app
 
-[Flowers for Spoon](https://github.com/iRadEntertainment/flowers-for-spoon)
+[Flowers for Spoon](https://github.com/iRadEntertainment/flowers-for-spoon) (GDscript, Supabase)
 : Send a digital flower and a personal letter, in memory of a friend
 
-[SRAP](/srap)
+[SRAP](/srap) (C)
 : University project for Embedded Control exam, consisting of a prototype for a prosthetic arm using and EMG controlled Servo motor
 
-[EasyLeaderboard](https://github.com/adrenallen/EasyLeaderboard)
+[EasyLeaderboard](https://github.com/adrenallen/EasyLeaderboard) (Javascript, Docker)
 : Containerized Leaderboard architecture for games
 
-[Lorien](https://github.com/mbrlabs/Lorien)
+[Lorien](https://github.com/mbrlabs/Lorien) (GDScript)
 : Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot
    
- [SociaDot](https://github.com/GodotNuts/FirebaseDemo-SociaDot)
+ [SociaDot](https://github.com/GodotNuts/FirebaseDemo-SociaDot) (GDScript, Firebase)
  : Experimental social network multi-platform app build with Godot Engine and Firebase
+ 
+ [GDApplib](https://github.com/gdshell/gdapplib-server) (Quarkus Java, Docker, PostgreSQL)
+ : Microservice as game library backend for Godot Engine games, supporting chunked upload/download
    
 ## 🎮 Games
 [Demon Reaper](/demon-reaper)
