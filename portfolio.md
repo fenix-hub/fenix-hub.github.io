@@ -29,6 +29,9 @@ Here's the list of projects and tools I've worked on.
 [Lorien](https://github.com/mbrlabs/Lorien)
 : Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot
    
+ [SociaDot](https://github.com/GodotNuts/FirebaseDemo-SociaDot)
+ : Experimental social network multi-platform app build with Godot Engine and Firebase
+   
 ## 🎮 Games
 [Demon Reaper](/demon-reaper)
 : 2D Action game made in 3 days with Godot 3 for GodotWildJam #7  
@@ -59,7 +62,7 @@ Here's the list of projects and tools I've worked on.
 [GodotTPD](/godottpd)
 :  A routable HTTP server for Godot 
   
-[jMatrix](/jmatrix) <i class="fab fa-java"></i>
+[jMatrix](/jmatrix)
 :  Java library for basic Linear Algebra operations with Matrices. Generic and Specific class Matrices are supported
 
 [proxer](/proxer)
@@ -86,6 +89,11 @@ Here's the list of projects and tools I've worked on.
 [Godot Code Snapshot](/godot-engine.code-snapshot)
 : A plugin for Godot Engine which will let you take beautified snapshots of your code within the Editor. Configure the frame as you like, with GDScript syntax already highlighted
   
+[GDScript Appwrite SDK](https://godotnuts.github.io/appwrite-sdk)
+: A lightweight addon which integrates Appwrite APIs for Godot Engine out of the box
+
+[GDSript Supabase SDK](https://github.com/supabase-community/godot-engine.supabase)
+: A lightweight addon which integrates Supabase APIs for Godot Engine out of the box
 
 ---
 
