@@ -39,11 +39,11 @@ Here's the list of projects and tools I've worked on.
  : Golang CLI tool for Gibson framework: package manager, project manager, godot cli parser, class resolver
    
 ## 🎮 Games
-[Demon Reaper](/demon-reaper)
-: 2D Action game made in 3 days with Godot 3 for GodotWildJam #7  
+[Demon Reaper](https://fenicenera.itch.io/demon-reaper)
+: 2D Top Down Action game made in 3 days with Godot 3 for GodotWildJam #7  
   
-[Sky Conquerors](/sky-conquerors)
-: 2D Real Time Strategy game made in 3 days with Godot for GodotWildJam #15
+[Sky Conquerors](https://fenicenera.itch.io/sky-conquerors)
+: 2D Isometric Real Time Strategy game made in 3 days with Godot for GodotWildJam #15
   
   
 ## 🪛 Libraries
