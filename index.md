@@ -7,7 +7,7 @@ title: Nicolo Santilio
 ### and I do stuff related to *robotics* and *computer science*
 
 *Socials*  
-[blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
+[blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / <a rel="me" href="https://mastodon.gamedev.place/@fenixhub">mastodon</a> / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
 {:.socials}
 
 ---
