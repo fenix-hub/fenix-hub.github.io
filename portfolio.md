@@ -47,6 +47,9 @@ Here's the list of projects and tools I've worked on.
   
   
 ## 🪛 Libraries
+[EasyCharts](/godot-engine.easy-charts)
+: A Godot Engine addon for plotting general purpose charts. A collection of Control, 2D and 3D Nodes to plot every chart possible.
+
 [GDCache](/gdcache)
 : GDScript library for Caching Algorithms and Replacement Policies for Godot Engine  
   
