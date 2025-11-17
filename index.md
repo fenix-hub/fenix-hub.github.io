@@ -7,7 +7,7 @@ title: Nicolo Santilio
 ### and I do stuff related to *robotics* and *computer science*
 
 *Socials*  
-[blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / <a rel="me" href="https://mastodon.gamedev.place/@fenixhub">mastodon</a> / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) 
+[blog](https://blog.nicolosantilio.com/) / [github](https://github.com/fenix-hub) / [twitter](https://twitter.com/fenixhub) / <a rel="me" href="https://mastodon.gamedev.place/@fenixhub">mastodon</a> / [linkedin](https://www.linkedin.com/in/nicolò-santilio-52b714b1/) / [mail](mailto:nicolo.santilio@outlook.com) / [cv](https://docs.google.com/viewer?url=https://github.com/fenix-hub/fenix-hub.github.io/blob/master/curriculum_vitae-SANTILIO_NICOLO.en.pdf?raw=true)
 {:.socials}
 
 ---
@@ -20,7 +20,9 @@ From *Isaac Asimov* to *Masamune Shirow*, from the ethics behind *artificial int
 I'm mainly interested in contributing to open-source projects and frameworks.  
 I enjoy developing tools that could help other users and developers all around the world.  
   
-You can get more about *me*, *my education* and *my current job* on [my LinkedIn page](https://www.linkedin.com/in/nicolò-santilio-52b714b1/)  
+You can get more about *me*, *my education* and *my current job* on [my LinkedIn page](https://www.linkedin.com/in/nicolò-santilio-52b714b1/)   
+
+You can read my updated CV [here](https://docs.google.com/viewer?url=https://github.com/fenix-hub/fenix-hub.github.io/blob/master/curriculum_vitae-SANTILIO_NICOLO.en.pdf?raw=true).
 
 ## 🗂️ Portfolio 
 Most of my projects involve robotics and micro-controllers, videogame development, tools and softwares.  
