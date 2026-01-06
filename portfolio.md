@@ -7,6 +7,37 @@ title: Nicolo Santilio
 # 📖 Portfolio  
 Here's the list of projects and tools I've worked on.  
 
+## 📝 Publications
+
+### June 2025  
+**Development of a Digital Twin for Autonomous Navigation Simulation of an Ackermann-Steering Vehicle**  
+DOI: [10.13140/RG.2.2.35336.33280](https://doi.org/10.13140/RG.2.2.35336.33280)
+
+### December 2024  
+**Development of a Multi-Objective Agent Based on Reinforcement Learning (RL) Designed for Path Planning in Urban Environments**  
+DOI: [10.13140/RG.2.2.35336.33280](https://doi.org/10.13140/RG.2.2.35336.33280)
+
+### December 2023  
+**Development of an Interactive Web Platform for Livestreaming Based on ffmpeg and Adaptive Video Format**  
+DOI: [10.13140/RG.2.2.19823.41125](https://doi.org/10.13140/RG.2.2.19823.41125)
+
+### July 2023  
+**Design of a Black-Box Analysis and Identification Model of a Permanent Magnet Synchronous Motor in Steady-State**  
+DOI: [10.13140/RG.2.2.25071.00164](https://doi.org/10.13140/RG.2.2.25071.00164)
+
+### October 2022  
+**Prototyping and Control of a Transradial Robotic Prosthesis Based on Surface Electromyography**  
+DOI: [10.13140/RG.2.2.31405.60647](https://doi.org/10.13140/RG.2.2.31405.60647)
+
+### July 2021  
+**Wearable IoT System for Personalized Monitoring of VOCs in Manufacturing Companies**  
+DOI: [10.13140/RG.2.2.27597.96489](https://doi.org/10.13140/RG.2.2.27597.96489)
+
+### June 2019  
+**Knowledge Representation and Automated Reasoning for Affective Computing from Biosignals**  
+DOI: [10.13140/RG.2.2.31405.60647](https://doi.org/10.13140/RG.2.2.31405.60647)
+
+
 ## 📚  Projects
 [Open Authenticator](/open-authenticator) (GDScript, C++)
 : Open source, offline, multiplatform 2fa software. Alternative to Google and Microsoft authenticator made with Godot Engine 4
