@@ -35,6 +35,9 @@ While you can both *read* and *use* what I'm publishing online, you can also fin
 [➡️ /portfolio](/portfolio)
 {: style="font-size: 130%; text-align: center;"}
 
+<div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+
 ---
 
 This website is based on [perfectmotherfockingwebsite.com](https://perfectmotherfuckingwebsite.com/)  
