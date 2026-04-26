@@ -22,7 +22,9 @@ I enjoy developing tools that could help other users and developers all around t
   
 You can get more about *me*, *my education* and *my current job* on [my LinkedIn page](https://www.linkedin.com/in/nicolò-santilio-52b714b1/)   
 
-You can read my updated CV [here](https://docs.google.com/viewer?url=https://github.com/fenix-hub/fenix-hub.github.io/blob/master/CV_SANTILIO_NICOLO_EN.pdf?raw=true).
+You can read my updated CV [here](https://docs.google.com/viewer?url=https://github.com/fenix-hub/fenix-hub.github.io/blob/master/CV_SANTILIO_NICOLO_EN.pdf?raw=true).  
+
+I also [develop videogames](https://fenicenera.itch.io)!  
 
 ## 🗂️ Portfolio 
 Most of my projects involve robotics and micro-controllers, videogame development, tools and softwares.  
